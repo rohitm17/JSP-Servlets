@@ -1,11 +1,11 @@
 # JSP-Servlets
 Basics of JSP and Servlets
 <br>
-Good To Know: <br>
+Good To Learn while Learning JSP and Servlet: <br>
 [1] JSTL  <br>
-[2] JNDI
+[2] JNDI 
 <br>
-[Prerequisites : Core Java + HTML Forms]
+[Prerequisites : Core Java + HTML Forms + Basics of JDBC (For database connection)]
 
 Serlvet Life Cycle:
 <br>
